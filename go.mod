@@ -5,5 +5,5 @@ go 1.15
 require (
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hashicorp/hcl/v2 v2.8.1
-	github.com/terraform-linters/tflint-plugin-sdk v0.6.0
+	github.com/terraform-linters/tflint-plugin-sdk v0.6.1-0.20210102141352-e72064bf511b
 )
